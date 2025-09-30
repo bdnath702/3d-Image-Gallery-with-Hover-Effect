@@ -13,7 +13,7 @@ This project creates a **stunning 3D hover effect** on images using **HTML & CSS
 ## 📂 Folder Structure
 - 📁 3D-Image-Hover-Effect │── 📄 index.html # Main HTML file │── 🎨 styles.css # Styling file for 3D effects │── 📂 images/ # Folder for image assets └── 📄 README.md # Project documentation
 
-- 🛠️ How It Works
+- 🛠️ How It Works.
 The hovered image pops forward with translateZ(250px) scale(1.1).
 The next & previous images tilt and fade slightly using rotateY() & filter: brightness().
 The effect cascades for a realistic 3D feel.
