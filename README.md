@@ -3,7 +3,7 @@
 
 This project creates a **stunning 3D hover effect** on images using **HTML & CSS**. When you hover over an image, it **pops out**, while its neighboring images **tilt and fade**, creating a **smooth depth effect**.
 
-## 🔥 Features.
+## 🔥 Features
 - 🎭 **3D Perspective:** Uses `perspective` and `translateZ` for a depth effect.
 - 🎨 **Smooth Hover Animations:** Hovering over an image makes it pop out.
 - 🌟 **Sibling Effects:** Nearby images tilt and fade for a dynamic look.
