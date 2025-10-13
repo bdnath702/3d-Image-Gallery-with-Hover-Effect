@@ -10,7 +10,7 @@ This project creates a **stunning 3D hover effect** on images using **HTML & CSS
 - 🌎 **Fully Responsive:** Works on different screen sizes.
 - ⚡ **No JavaScript Needed!** Pure **HTML + CSS** only.
 
-## 📂 Folder Structure
+## 📂 Folder Structure.
 - 📁 3D-Image-Hover-Effect │── 📄 index.html # Main HTML file │── 🎨 styles.css # Styling file for 3D effects │── 📂 images/ # Folder for image assets └── 📄 README.md # Project documentation
 
 - 🛠️ How It Works
